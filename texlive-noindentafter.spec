@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-noindentafter
 Version:	20131010
-Release:	2
+Release:	3
 Summary:	TeXLive noindentafter package
 Group:		Publishing
 URL:		http://tug.org/texlive
