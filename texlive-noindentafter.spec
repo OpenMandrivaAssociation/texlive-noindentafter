@@ -1,12 +1,6 @@
-# revision 31341
-# category Package
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-noindentafter
-Version:	20131010
-Release:	9
+Version:	0.2.2
+Release:	1
 Summary:	TeXLive noindentafter package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -31,13 +25,8 @@ TeXLive noindentafter package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/noindentafter/noindentafter.sty
-%doc %{_texmfdistdir}/doc/latex/noindentafter/README
-%doc %{_texmfdistdir}/doc/latex/noindentafter/dry.sty
-%doc %{_texmfdistdir}/doc/latex/noindentafter/noindentafter.pdf
-%doc %{_texmfdistdir}/doc/latex/noindentafter/noindentafter.tex
-%doc %{_texmfdistdir}/doc/latex/noindentafter/packagedoc.cls
-%doc %{_texmfdistdir}/doc/latex/noindentafter/with.sty
+%{_texmfdistdir}/tex/latex/noindentafter
+%doc %{_texmfdistdir}/doc/latex/noindentafter
 
 #-----------------------------------------------------------------------
 %prep
