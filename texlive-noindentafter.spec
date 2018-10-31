@@ -1,6 +1,6 @@
 Name:		texlive-noindentafter
 Version:	0.2.2
-Release:	1
+Release:	2
 Summary:	TeXLive noindentafter package
 Group:		Publishing
 URL:		http://tug.org/texlive
